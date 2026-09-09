@@ -1,0 +1,10 @@
+# Generated executables; these also contain the configured credentials.
+*.exe
+/ParadeBot
+# Local activity, generated public exports, and local environment files.
+/logs/
+/dist/
+.env
+.env.*
+/.playwright-cli/
+/output/
